@@ -7,6 +7,7 @@ var test = require('./concatIngredients')
 module.exports.function = function queryByIngredients (strIngredient1) {
   var apiUrl = 'https://www.thecocktaildb.com/api/json/v1/1/filter.php?i='
   var results = []
+  console.log("UUUU")
   for (var i = 0; i < arguments[0].length; i++) {
     var tmpResults = http.getUrl(encodeURI(apiUrl + arguments[0][i]))
     if (tmpResults)

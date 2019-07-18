@@ -5,18 +5,17 @@ result-view  {
     from-output: findDrinkByName
   }
   render  {
-    //TEST 
-    // if (size(this) > 1){
-    //   list-of (this){
-    //     where-each (drink){
-    //       layout-macro (findDrinkLayout){
-    //         param (Drink){
-    //           expression (drink)
-    //         }
-    //       }
-    //     } 
-    //   }
-    // }
+    if (size(this) > 1){
+      list-of (this){
+        where-each (drink){
+          layout-macro (findDrinkLayout){
+            param (Drink){
+              expression (drink)
+            }
+          }
+        } 
+      }
+    }
     
     
     if (exists(this[0]) && !exists(this[1])){
