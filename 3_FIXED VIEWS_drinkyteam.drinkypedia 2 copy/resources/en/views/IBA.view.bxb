@@ -1,0 +1,18 @@
+result-view  {
+  match: Drink  (this){
+    min (Required)
+    max (Many)
+    from-output: findIBA
+  }
+ render {
+    layout {
+      section {
+        content {
+          paragraph{
+            value("#{value(strGlass)}")
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,392 @@
+//SPECIFIC DRINK CLICKED
+layout-macro-def(findSpecificDrinkInfoLayout) {
+  params {
+    param (Drink) {
+      type (Drink)
+      min (Required)
+      max (One)
+    }
+  }
+ content{
+    section{
+      content{
+        if (exists(Drink)){
+        image{
+          url("#{raw(Drink.strDrinkThumb)}")
+          aspect-ratio(1:1)        
+           object-fit (Cover)
+            lightbox-enabled (false)
+        }
+
+          //Handles the Title of the drink
+          hbox { 
+            content {
+              vbox {
+                content {
+                  single-line {
+                    text {
+                       style(Title_M)
+                       value("[#{value(Drink.strDrink)}]")       
+                    }
+                  }
+                }
+              }
+          }
+         }  
+          //Ingredient1
+          hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient1)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure1)} #{value(Drink.strIngredient1)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }
+        //Ingredient2
+          hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient2)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure2)} #{value(Drink.strIngredient2)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }          
+          //Ingredient3
+          hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient3)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure3)} #{value(Drink.strIngredient3)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }          
+        //Ingredient4
+          hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient4)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure4)} #{value(Drink.strIngredient4)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }         
+         //Ingredient5
+          hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient5)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure5)} #{value(Drink.strIngredient5)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }          
+         //Ingredient6
+          hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient6)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure6)} #{value(Drink.strIngredient6)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }      
+          //Ingredient7
+          hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient7)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure7)} #{value(Drink.strIngredient7)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }          
+        //Ingredient8
+          hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient8)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure8)} #{value(Drink.strIngredient8)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }          
+         //Ingredient9
+          hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient9)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure9)} #{value(Drink.strIngredient9)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }           
+         //Ingredient10
+          hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient10)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("[#{value(Drink.strMeasure10)} #{value(Drink.strIngredient10)}]")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }  
+         //Ingredient 11
+          hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient11)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure11)} #{value(Drink.strIngredient11)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }    
+         //Ingredient 12          
+          hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient12)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure12)} #{value(Drink.strIngredient12)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }   
+         //Ingredient 13          
+           hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient13)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure13)} #{value(Drink.strIngredient13)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         }         
+         //Ingredient 14         
+           hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient14)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure14)} #{value(Drink.strIngredient14)}")
+                    }
+                  }
+                 }
+               }
+             }
+           }
+         } 
+         //Ingredient 15       
+           hbox {
+            content {
+              vbox {
+                content {
+                  if(exists(Drink.strIngredient15)) {
+                  single-line {
+                    text {
+                       style(Label_M)
+                       value("#{value(Drink.strMeasure15)} #{value(Drink.strIngredient15)}")
+                    }
+                  }
+                }
+               }
+             }
+           }
+         }           
+//        compound-card {
+//          content {
+ //           paragraph {
+ //             style(Title_M)
+ //              value("#{value(Drink.strDrink)}")
+//             }
+//             if (exists(Drink.strIngredient1)) {
+//               paragraph{
+//                 value("#{value(Drink.strMeasure1)} #{value(Drink.strIngredient1)}")
+//               }
+//             }
+//             if (exists(Drink.strIngredient2)) {
+//               paragraph{
+//                 value("#{value(Drink.strMeasure2)} #{value(Drink.strIngredient2)}")
+//               }
+//             }
+//             if (exists(Drink.strIngredient3)) {
+//               paragraph{
+//                 value("#{value(Drink.strMeasure3)} #{value(Drink.strIngredient3)}")
+//               }
+//             }
+//             if (exists(Drink.strIngredient4)) {
+//               paragraph{
+//                 value("#{value(Drink.strMeasure4)} #{value(Drink.strIngredient4)}")
+//               }
+//             }
+//             if (exists(Drink.strIngredient5)) {
+//               paragraph{
+//                 value("#{value(Drink.strMeasure5)} #{value(Drink.strIngredient5)}")
+//               }
+//             }
+//             if (exists(Drink.strIngredient6)) {
+            //   paragraph{
+            //     value("#{value(Drink.strMeasure6)} #{value(Drink.strIngredient6)}")
+            //   }
+            // }
+            // if (exists(Drink.strIngredient7)) {
+            //   paragraph{
+            //     value("#{value(Drink.strMeasure7)} #{value(Drink.strIngredient7)}")
+            //   }
+            // }
+            // if (exists(Drink.strIngredient8)) {
+            //   paragraph{
+            //     value("#{value(Drink.strMeasure8)} #{value(Drink.strIngredient8)}")
+            //   }
+            // }
+            // if (exists(Drink.strIngredient9)) {
+            //   paragraph{
+            //     value("#{value(Drink.strMeasure9)} #{value(Drink.strIngredient9)}")
+            //   }
+            // }
+            // if (exists(Drink.strIngredient10)) {
+            //   paragraph{
+            //     value("#{value(Drink.strMeasure10)} #{value(Drink.strIngredient10)}")
+            //   }
+            // }
+            // if (exists(Drink.strIngredient11)) {
+            //   paragraph{
+            //     value("#{value(Drink.strMeasure11)} #{value(Drink.strIngredient11)}")
+            //   }
+            // }
+            // if (exists(Drink.strIngredient12)) {
+            //   paragraph{
+            //     value("#{value(Drink.strMeasure12)} #{value(Drink.strIngredient12)}")
+            //   }
+            // }
+            // if (exists(Drink.strIngredient13)) {
+            //   paragraph{
+            //     value("#{value(Drink.strMeasure13)} #{value(Drink.strIngredient13)}")
+            //   }
+            // }
+            // if (exists(Drink.strIngredient14)) {
+            //   paragraph{
+            //     value("#{value(Drink.strMeasure14)} #{value(Drink.strIngredient14)}")
+        //       }
+        //     }
+        //     if (exists(Drink.strIngredient15)) {
+        //       paragraph{
+        //         value("#{value(Drink.strMeasure15)} #{value(Drink.strIngredient15)}")
+        //       }
+        //     }
+        //   }
+        // }
+        
+          paragraph {
+            value("Instructions:")
+            style(Title_M)
+          }
+          
+        paragraph{
+          value("#{value(Drink.strInstructions)}")
+        }
+      }
+        else{
+          paragraph{
+            value("Sorry we don't have any drinks with that ingredient right now")
+          }
+        }
+    }
+    }
+  }
+}

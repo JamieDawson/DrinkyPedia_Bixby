@@ -1,0 +1,20 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (IngredientsAction) {
+      accepted-inputs (strIngredient1)
+      local-endpoint (queryIngredientInfo.js)
+    }
+    action-endpoint (FindDrink) {
+      accepted-inputs (strIngredient1)
+      local-endpoint (queryByIngredients.js)
+    }
+    action-endpoint (findSpecificDrinkInfo) {
+      accepted-inputs (Drink)
+      local-endpoint (findSpecificDrinkInfo.js)
+    }
+    action-endpoint (findDrinkByName) {
+      accepted-inputs (strDrink)
+      local-endpoint (findDrinkByName.js)
+    }
+  }
+}

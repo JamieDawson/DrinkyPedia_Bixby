@@ -1,0 +1,14 @@
+result-view  {
+  match: Drink  (this){
+    from-output: findSpecificDrinkInfo
+  }
+  render  {
+    
+    layout-macro (findSpecificDrinkInfoLayout){
+      param  (Drink){
+        
+        expression (this)
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+train (t-6jgx0agcnyagdk2zhtpek7n03) {
+  utterance ("[g:FindDrink] What drinks can I make with (vodka)[v:strIngredient1]?")
+  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
+  last-modified (1559609131307)
+}
+train (t-6mtzga6ob440hlwg2pcmld2gv) {
+  utterance ("[g:findDrinkByName] What is a (cosmopolitan)[v:strDrink]?")
+  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMcmiiaZl5KWAZp0q/xNxUBnE0+eKSIohGJgZGIGYAkowMIADlAwA=)
+  last-modified (1559609131370)
+}
+train (t-6o098s4rybea3lsn4fwx8xle4) {
+  utterance ("[g:findDrinkByName] How do I make a (whiskey sour)[v:strDrink]?")
+  plan (Y2BmkEkpyszLrixITclM1IOwS1ITc/VcQEwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1559761519217)
+}
+train (t-6u116ux6jdzdwc2nwb00heb2m) {
+  utterance ("[g:IngredientsAction] I need to know stuff about (vodka)[v:strIngredient1]")
+  plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)
+  last-modified (1559610760782)
+}

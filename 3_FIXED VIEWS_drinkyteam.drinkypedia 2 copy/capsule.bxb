@@ -1,0 +1,16 @@
+capsule {
+  id (playground.drinkypedia_Fixed)
+  version (1.0.6)
+  format (3)
+  targets {
+    target (bixby-mobile-en-US)
+  }
+  runtime-flags {
+    support-halt-effect-in-computed-inputs
+     modern-prompt-rejection
+    no-fallback-to-result-collections
+  }
+  store-sections {
+    section (FoodAndDrink)
+  }
+}
