@@ -14,8 +14,8 @@ capsule-info {
   dispatch-name (Drinky Pedia) 
   dispatch-aliases {
     alias (DrinkyPedia)
-
   }
+  //privacy-policy-url () Not needed. Not asking for user-sensitive data
   action-bg-color (#BF2519)
   action-fg-color (#FFFFFF)
 }
