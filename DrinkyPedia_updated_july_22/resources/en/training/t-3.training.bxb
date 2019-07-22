@@ -5,8 +5,8 @@ train (t-3c6jx3mpgjkr1ufal6v33xqey) {
 }
 train (t-3kmjs2dait1j74nldxzudnxus) {
   utterance ("[g:IngredientsAction] I need to know stuff about the ingredient (lemon)[v:strIngredient1]")
-  plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)
-  last-modified (1559610837952)
+  plan (Y2BmUC/ISaxML8ovzUvRSynKzMuuLEhNyUyMd8usSE3R88xLLwJyU/NKGPSIVFjsmFySmZ/HoI1XfXFJEUKLIQMTAyMQMwBJRgYQgPIB)
+  last-modified (1563829255033)
 }
 train (t-3uqcjf9xkcawwwdhongklpkfi) {
   utterance ("[g:findDrinkByName] Search for an (old fashioned)[v:strDrink]")

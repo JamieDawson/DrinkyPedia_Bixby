@@ -1,3 +1,8 @@
+train (t-wp37vn80eylab94hblzfw1tin) {
+  utterance ("[g:IngredientsAction] I wanna know stuff about (lemon)[v:strIngredient1]")
+  plan (Y2BmUC/ISaxML8ovzUvRSynKzMuuLEhNyUyMd8usSE3R88xLLwJyU/NKGPSIVFjsmFySmZ/HoI1XfXFJEUKLIQMTAyMQMwBJRgYQgPIB)
+  last-modified (1563829302678)
+}
 train (t-ww450oaut1vrd3esii8qapoee) {
   utterance ("[g:FindDrink] Any drinks I can make using (apple)[v:strIngredient1]")
   plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)

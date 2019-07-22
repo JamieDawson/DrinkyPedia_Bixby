@@ -3,6 +3,11 @@ train (t-jgcq5dxssmae7nl19f1p9wkii) {
   plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)
   last-modified (1559609131452)
 }
+train (t-jkbit3vxrn0307l763f12ypyp) {
+  utterance ("[g:IngredientsAction] tell me about the  (lemon)[v:strIngredient1]")
+  plan (Y2BmUC/ISaxML8ovzUvRSynKzMuuLEhNyUyMd8usSE3R88xLLwJyU/NKGPSIVFjsmFySmZ/HoI1XfXFJEUKLIQMTAyMQMwBJRgYQgPIB)
+  last-modified (1563829332146)
+}
 train (t-jlc4wcgv55ijwgr8xi7eueqk8) {
   utterance ("[g:FindDrink] What drinks have (vodka)[v:strIngredient1] and (tequila)[v:strIngredient1] in them?")
   plan (Y2BlEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMKpVkYGBmYGJiBNAOYxQQkGRh4gJABKMoIkQEA)
