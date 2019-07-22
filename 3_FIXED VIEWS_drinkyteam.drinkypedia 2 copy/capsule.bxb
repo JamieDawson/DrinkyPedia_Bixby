@@ -13,4 +13,9 @@ capsule {
   store-sections {
     section (FoodAndDrink)
   }
+    capsule-imports {
+    import (viv.core) {
+      as (core)
+    }
+  }
 }

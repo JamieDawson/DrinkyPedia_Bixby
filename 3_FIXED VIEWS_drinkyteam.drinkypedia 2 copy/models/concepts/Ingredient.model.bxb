@@ -16,4 +16,9 @@ structure (Ingredient) {
     type (idIngredient)
     min (Optional) max (One)
   }
+  property (speech) {
+    type (Speech)
+    min (Optional) max (One)
+  }
+  
 }
