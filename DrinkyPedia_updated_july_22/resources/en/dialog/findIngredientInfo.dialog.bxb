@@ -1,6 +1,6 @@
 dialog (Result) {
   match: Ingredient (this)
-  template("Info I found on #{value(this.strIngredient)}") {
+  template("Info I found on #{value(this.strIngredient)}.") {
     speech ("#{value(this.speech)}")
   }
 }
