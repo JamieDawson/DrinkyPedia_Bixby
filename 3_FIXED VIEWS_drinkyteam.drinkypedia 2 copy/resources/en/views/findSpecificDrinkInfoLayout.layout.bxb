@@ -17,7 +17,8 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
            object-fit (Cover)
             lightbox-enabled (false)
         }
-
+         
+         
           //Handles the Title of the drink
           hbox { 
             content {
@@ -33,6 +34,11 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
               }
           }
          }  
+          
+                    paragraph {
+            value("Ingredients:")
+            style(Detail_L_Soft)
+          }
           //Ingredient1
           hbox {
             content {
@@ -374,7 +380,7 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
         
           paragraph {
             value("Instructions:")
-            style(Title_M)
+            style(Detail_L_Soft)
           }
           
         paragraph{

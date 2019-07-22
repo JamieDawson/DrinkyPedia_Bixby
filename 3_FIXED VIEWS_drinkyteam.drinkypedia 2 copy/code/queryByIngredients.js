@@ -5,6 +5,7 @@ var test = require('./concatIngredients')
 // Takes n string arguments for ingredients, returns array.
 
 module.exports.function = function queryByIngredients (strIngredient1) {
+  console.log("is it queryBYingredientsjs")
   var apiUrl = 'https://www.thecocktaildb.com/api/json/v1/1/filter.php?i='
   var results = []
   console.log("UUUU")

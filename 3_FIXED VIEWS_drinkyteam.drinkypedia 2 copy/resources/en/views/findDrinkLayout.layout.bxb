@@ -13,13 +13,17 @@ layout-macro-def(findDrinkLayout) {
           aspect-ratio(3:4)
           image-object-fit (Contain)
           image-url ("#{value(Drink.strDrinkThumb)}")
-          title-area { slot1 { text {  value ("#{value(Drink.strDrink)}")} } }
+          title-area { 
+            slot1 { 
+              text {  value ("")} 
+            }
+          }
         }
         title-area {
           halign (Start)
           slot1 {
             text {
-              value ("#{value(Drink.strDrink)}")
+            value ("#{value(Drink.strDrink)}")
               style (Title_XS)
             }
           }

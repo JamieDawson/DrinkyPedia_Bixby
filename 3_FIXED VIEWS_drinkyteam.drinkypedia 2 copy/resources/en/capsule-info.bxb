@@ -13,9 +13,8 @@ capsule-info {
   }
   dispatch-name (Drinky Pedia) 
   dispatch-aliases {
-    alias (DrinkyPedia recipes)
-    alias (DrinkyPedia drinks)
-    alias (DrinkyPedia capsule) 
+    alias (DrinkyPedia)
+
   }
   action-bg-color (#BF2519)
   action-fg-color (#FFFFFF)
