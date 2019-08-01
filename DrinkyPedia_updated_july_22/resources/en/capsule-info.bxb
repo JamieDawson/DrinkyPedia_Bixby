@@ -1,7 +1,7 @@
 capsule-info {
   display-name (Drinkypedia)
   developer-name (Drinkyteam)
-  icon-asset (/images/icons/icon.svg)
+  icon-asset (/images/icons/icon_for_drinkypedia.png)
   description ("Drinkypedia is a drink-mixing app for finding your perfect drink. Designed for people of any skill level, you can easily find recipes for your favorite mixed cocktail using whatever ingredients you have on hand. By simply listing what is immediately available to you, Drinkypedia uses advanced search algorithms in its database to find and display a variety of drinks that can be made by you. Just follow the simple instructions and you'll have your perfect mixer in no time. If there is a specific drink you wants to know more about, then Drinkypedia is also able to search specifically by name. Currently, the Drinkypedia database has a list of hundreds of drinks and their ingredients, and everyday more are being added.")
   search-keywords{
     keyword (drink)

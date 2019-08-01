@@ -11,7 +11,7 @@ layout-macro-def(findDrinkLayout) {
       content {
         image-card {
           aspect-ratio(3:4)
-          image-object-fit (Contain)
+          image-object-fit (Cover) //use to be Conatain. Changed to Cover.
           image-url ("#{value(Drink.strDrinkThumb)}")
           title-area { 
             slot1 { 
