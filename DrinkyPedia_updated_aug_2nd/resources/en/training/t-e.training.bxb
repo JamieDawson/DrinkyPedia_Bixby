@@ -1,0 +1,10 @@
+train (t-e1egg3q6uu8ale1y0w1b2rttl) {
+  utterance ("[g:FindDrink] What can I make using (apple)[v:strIngredient1]?")
+  plan (Y2BmUCrISaxML8ovzUvRSynKzMuuLEhNyUyMd8usSE3RcwGJMKjhVeOWmZcCUaeNV11xSZFnXnoRUCQ1r8SQgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1563416673256)
+}
+train (t-ehv3crpf7jyzymt28uugigjh0) {
+  utterance ("[g:findDrinkByName] Search for (old fashioned)[v:strDrink].")
+  plan (Y2BmkEkpyszLrixITclM1IOwS1ITc/VcQEwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1559759864852)
+}

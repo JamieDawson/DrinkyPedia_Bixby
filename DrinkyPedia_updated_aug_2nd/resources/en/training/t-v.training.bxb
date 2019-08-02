@@ -1,0 +1,5 @@
+train (t-vzh3iy9wrwpck8sx6yiwsu1c5) {
+  utterance ("[g:findDrinkByName] Describe (cosmopolitan)[v:strDrink]")
+  plan (Y2BmkEkpyszLrixITclM1IOwS1ITc/VcQEwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1559759248295)
+}

@@ -1,0 +1,10 @@
+train (t-t1hxm25iy5wcspl6c9qmyrxmf) {
+  utterance ("[g:IngredientsAction] Give me info on (lemon)[v:strIngredient1]")
+  plan (Y2BmUC/ISaxML8ovzUvRSynKzMuuLEhNyUyMd8usSE3R88xLLwJyU/NKGPSIVFjsmFySmZ/HoI1XfXFJEUKLIQMTAyMQMwBJRgYQgPIB)
+  last-modified (1563829269749)
+}
+train (t-t4qakmtd1ov26doiibva8pnlg) {
+  utterance ("[g:FindDrink] What can I make using (lime)[v:strIngredient1]?")
+  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
+  last-modified (1559610032546)
+}

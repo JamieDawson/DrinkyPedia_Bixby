@@ -1,0 +1,11 @@
+dialog (Result) {
+  match: Drink (this){
+    from-output: FindDrink
+  }
+  if(size(this) > 1){
+    template("I've found some drinks for you.")
+  }
+  else
+   template("")
+  
+}
