@@ -1,5 +1,0 @@
-train (t-bva1ifyi3z24gpdu0kz2fw13s) {
-  utterance ("[g:IngredientsAction] Give me details about the ingredient (vodka)[v:strIngredient1]")
-  plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)
-  last-modified (1559610651926)
-}
