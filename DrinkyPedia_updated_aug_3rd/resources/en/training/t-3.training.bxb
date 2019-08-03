@@ -1,0 +1,15 @@
+train (t-3c6jx3mpgjkr1ufal6v33xqey) {
+  utterance ("[g:findDrinkByName] That (zombie)[v:strDrink] drink.")
+  plan (Y2BmkEkpyszLrixITclM1IOwS1ITc/VcQEwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1559759792956)
+}
+train (t-3kmjs2dait1j74nldxzudnxus) {
+  utterance ("[g:IngredientsAction] I need to know stuff about the ingredient (lemon)[v:strIngredient1]")
+  plan (Y2BmUC/ISaxML8ovzUvRSynKzMuuLEhNyUyMd8usSE3R88xLLwJyU/NKGPSIVFjsmFySmZ/HoI1XfXFJEUKLIQMTAyMQMwBJRgYQgPIB)
+  last-modified (1563829255033)
+}
+train (t-3uqcjf9xkcawwwdhongklpkfi) {
+  utterance ("[g:findDrinkByName] Search for an (old fashioned)[v:strDrink]")
+  plan (Y2BmkEkpyszLrixITclM1IOwS1ITc/VcQEwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1559762589833)
+}

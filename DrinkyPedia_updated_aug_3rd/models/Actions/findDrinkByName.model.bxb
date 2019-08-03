@@ -1,0 +1,11 @@
+action (findDrinkByName) {
+  type(Search)
+  description (__DESCRIPTION__)
+  collect {
+    input (strDrink) {
+      type (strDrink)
+      min (Optional) max (One)
+    }
+  }
+  output (Drink)
+}

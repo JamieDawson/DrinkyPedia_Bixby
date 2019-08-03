@@ -1,0 +1,20 @@
+train (t-z5zf71cel3jx1s982q65nt5j1) {
+  utterance ("[g:IngredientsAction] Give me details about (vodka)[v:strIngredient1]")
+  plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)
+  last-modified (1559610556775)
+}
+train (t-z91bdz7qfib283zsn27v45n5w) {
+  utterance ("[g:FindDrink] Give me drinks I can make with (vodka)[v:strIngredient1]")
+  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
+  last-modified (1559610333027)
+}
+train (t-zkjr2hse7uubs3snlbsw46k3y) {
+  utterance ("[g:IngredientsAction] I need to know stuff about the ingredient (vodka)[v:strIngredient1]")
+  plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)
+  last-modified (1559610811486)
+}
+train (t-zw373p3nzovvyjkshgxdx2k3v) {
+  utterance ("[g:FindDrink] Any drinks I can make using (vodka)[v:strIngredient1]")
+  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
+  last-modified (1559609368931)
+}

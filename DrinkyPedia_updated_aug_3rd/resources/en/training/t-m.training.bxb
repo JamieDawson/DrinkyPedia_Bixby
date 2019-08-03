@@ -1,0 +1,15 @@
+train (t-m1st2xa2wf9w16xr6rv0ff1h8) {
+  utterance ("[g:findDrinkByName] Explain to me what an (old fashioned)[v:strDrink] is")
+  plan (Y2BmkEkpyszLrixITclM1IOwS1ITc/VcQEwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1559759510944)
+}
+train (t-mkyxrduq1ebye1oe95dahsx6o) {
+  utterance ("[g:findDrinkByName] What's in a (martini)[v:strDrink]?")
+  plan (Y2BmkEkpyszLrixITclM1IOwS1ITc/VcQEwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1559758952124)
+}
+train (t-mpfjx89u64soit6a38y157bjt) {
+  utterance ("[g:FindDrink] What drinks have (whiskey)[v:strIngredient1] in them?")
+  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
+  last-modified (1559609131557)
+}

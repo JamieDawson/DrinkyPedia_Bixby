@@ -1,0 +1,5 @@
+train (t-avjrwnv4p16p098jbjg8nv8ro) {
+  utterance ("[g:findDrinkByName] Find me a (martini)[v:strDrink] recipe.")
+  plan (Y2BmkEkpyszLrixITclM1IOwS1ITc/VcQEwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1559759900456)
+}

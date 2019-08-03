@@ -1,0 +1,3 @@
+integer (idDrink) {
+  description (__DESCRIPTION__)
+}
