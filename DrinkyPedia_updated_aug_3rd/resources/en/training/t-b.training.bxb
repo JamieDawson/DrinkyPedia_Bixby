@@ -8,3 +8,8 @@ train (t-bva1ifyi3z24gpdu0kz2fw13s) {
   plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)
   last-modified (1559610651926)
 }
+train (t-bwmpeld0mius4gp05srqlp59c) {
+  utterance ("[g:FindDrink] Give me some (random)[v:strIngredient1] drinks.")
+  plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGBRyybpl5KRAVqjhUFJcUeealFwHZqXklhgxMDIxAzAAkGRlAAMoHAA==)
+  last-modified (1565409486212)
+}

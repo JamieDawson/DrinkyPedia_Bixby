@@ -3,5 +3,6 @@ hints {
     utterance (What drinks can I make with vodka?)
     utterance (What is a zombie?)
     utterance (Tell me about lemon.)
+    utterance (Give me some random drinks.)
   }
 }
