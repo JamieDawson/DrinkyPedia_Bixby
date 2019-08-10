@@ -5,6 +5,6 @@ train (t-07onv75llsqjb1ff5efc8usz6) {
 }
 train (t-0cqoag43z4j6offzhu6948wwp) {
   utterance ("[g:findDrinkByName] What is a (manhattan)[v:strDrink]?")
-  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMcmiiaZl5KWAZp0q/xNxUBnE0+eKSIohGJgZGIGYAkowMIADlAwA=)
-  last-modified (1559609131189)
+  plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1565397478166)
 }

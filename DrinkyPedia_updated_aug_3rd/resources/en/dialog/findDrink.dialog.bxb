@@ -4,8 +4,10 @@ dialog (Result) {
   }
   if(size(this) > 1){
     template("I've found some drinks for you.")
+   // template("#{value(this.strDrink)}")
   }
   else
    template("")
   
 }
+

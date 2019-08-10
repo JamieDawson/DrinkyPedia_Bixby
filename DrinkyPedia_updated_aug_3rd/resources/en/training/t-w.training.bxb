@@ -3,6 +3,11 @@ train (t-wp37vn80eylab94hblzfw1tin) {
   plan (Y2BmUC/ISaxML8ovzUvRSynKzMuuLEhNyUyMd8usSE3R88xLLwJyU/NKGPSIVFjsmFySmZ/HoI1XfXFJEUKLIQMTAyMQMwBJRgYQgPIB)
   last-modified (1563829302678)
 }
+train (t-wtyanwgo3lkxdtn5c8aw7bmz2) {
+  utterance ("[g:findDrinkByName] show me the (zombie)[v:strDrink]")
+  plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1565397243400)
+}
 train (t-ww450oaut1vrd3esii8qapoee) {
   utterance ("[g:FindDrink] Any drinks I can make using (apple)[v:strIngredient1]")
   plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
