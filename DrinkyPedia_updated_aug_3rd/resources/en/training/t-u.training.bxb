@@ -3,6 +3,11 @@ train (t-uih3igu96lmmn87kj0cqlca2c) {
   plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)
   last-modified (1559610785957)
 }
+train (t-un6zwpsh0rahgi9hrryk1735v) {
+  utterance ("[g:findDrinkByName] Show me the (old fashioned)[v:strDrink].")
+  plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1565400616802)
+}
 train (t-uovu4v99fkyuk87yxbmjt65qe) {
   utterance ("[g:IngredientsAction] Give me details about (lemon)[v:strIngredient1]")
   plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)

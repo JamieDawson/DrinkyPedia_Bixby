@@ -5,6 +5,11 @@ train (t-e1egg3q6uu8ale1y0w1b2rttl) {
 }
 train (t-ehv3crpf7jyzymt28uugigjh0) {
   utterance ("[g:findDrinkByName] Search for (old fashioned)[v:strDrink].")
-  plan (Y2BmkEkpyszLrixITclM1IOwS1ITc/VcQEwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
-  last-modified (1559759864852)
+  plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1565400980732)
+}
+train (t-etkphjaz4vzjljhhkf7wpplqm) {
+  utterance ("[g:findDrinkByName] what is  (old fashioned)[v:strDrink].")
+  plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1565400717539)
 }
