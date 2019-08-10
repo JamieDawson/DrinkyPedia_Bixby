@@ -8,6 +8,11 @@ train (t-phnsz97uk1m5czku7je3khkbm) {
   plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)
   last-modified (1559610652881)
 }
+train (t-poqyd97mzosg0v0qv4jzez879) {
+  utterance ([g:FindDrink] i want something to drink)
+  plan (Y2BikEkpyszLrixJTczVgzALUlMyE/VcQGwGBRyybpl5KRAVjEDIAMVAEgA=)
+  last-modified (1565408857368)
+}
 train (t-prwjm6xzsrm868iam8nqmg6ee) {
   utterance ("[g:FindDrink] Give me drinks I can make with (lime)[v:strIngredient1]")
   plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)

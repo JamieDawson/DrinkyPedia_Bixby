@@ -10,8 +10,8 @@ train (t-so33csjhfm8f15kv85ec7cupg) {
 }
 train (t-sra5nz0w1qvtp5lk35ngo3s67) {
   utterance ("[g:FindDrink] What can I make using (tequila)[v:strIngredient1]?")
-  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
-  last-modified (1559609990137)
+  plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGBRyybpl5KRAVqjhUFJcUeealFwHZqXklhgxMDIxAzAAkGRlAAMoHAA==)
+  last-modified (1565401765579)
 }
 train (t-syl44f6ly92f9oasbsngmx5s5) {
   utterance ("[g:FindDrink] What drinks can I make with (tequila)[v:strIngredient1]?")

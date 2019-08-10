@@ -13,3 +13,8 @@ train (t-etkphjaz4vzjljhhkf7wpplqm) {
   plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
   last-modified (1565400717539)
 }
+train (t-expxr6lj051bz89ojqeakbn90) {
+  utterance ([g:FindDrink] search for some drinks)
+  plan (Y2BikEkpyszLrixJTczVgzALUlMyE/VcQGwGBRyybpl5KRAVjEDIAMVAEgA=)
+  last-modified (1565408791753)
+}

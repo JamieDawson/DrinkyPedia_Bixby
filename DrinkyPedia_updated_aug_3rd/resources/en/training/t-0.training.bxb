@@ -8,3 +8,8 @@ train (t-0cqoag43z4j6offzhu6948wwp) {
   plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
   last-modified (1565397478166)
 }
+train (t-0nhfchr9ytzzmcmj8ohj8lagm) {
+  utterance ([g:FindDrink] search for something)
+  plan (Y2BikEkpyszLrixJTczVgzALUlMyE/VcQGwGBRyybpl5KRAVjEDIAMVAEgA=)
+  last-modified (1565408757812)
+}

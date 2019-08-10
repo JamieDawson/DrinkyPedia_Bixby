@@ -1,7 +1,17 @@
+train (t-u1d45wcudd02sz3s1q9t44grx) {
+  utterance ([g:FindDrink] show me random drinks)
+  plan (Y2BikEkpyszLrixJTczVgzALUlMyE/VcQGwGBRyybpl5KRAVjEDIAMVAEgA=)
+  last-modified (1565408932450)
+}
 train (t-uih3igu96lmmn87kj0cqlca2c) {
   utterance ("[g:IngredientsAction] I need to know stuff about (lemon)[v:strIngredient1]")
   plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)
   last-modified (1559610785957)
+}
+train (t-uknlqhojji0jctpzty5r6tcy4) {
+  utterance ([g:FindDrink] what do you have)
+  plan (Y2BikEkpyszLrixJTczVgzALUlMyE/VcQGwGBRyybpl5KRAVjEDIAMVAEgA=)
+  last-modified (1565408829849)
 }
 train (t-un6zwpsh0rahgi9hrryk1735v) {
   utterance ("[g:findDrinkByName] Show me the (old fashioned)[v:strDrink].")

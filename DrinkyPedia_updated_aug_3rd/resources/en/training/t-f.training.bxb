@@ -3,6 +3,11 @@ train (t-f20w97zij93qfl7r9n0gl2wyb) {
   plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)
   last-modified (1559610763925)
 }
+train (t-fexvb2albf889jxymn502zhct) {
+  utterance ("[g:FindDrink] get me a (random)[v:strIngredient1]")
+  plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGBRyybpl5KRAVqjhUFJcUeealFwHZqXklhgxMDIxAzAAkGRlAAMoHAA==)
+  last-modified (1565407890888)
+}
 train (t-fqh5fhr2yoxrrhiy647xvnfc3) {
   utterance ("[g:FindDrink] Any drinks I can make using (tequila)[v:strIngredient1]")
   plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)

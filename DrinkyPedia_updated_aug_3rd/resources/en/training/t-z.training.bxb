@@ -18,3 +18,8 @@ train (t-zw373p3nzovvyjkshgxdx2k3v) {
   plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
   last-modified (1559609368931)
 }
+train (t-zxads3oqd8mdk5dx9glc7jssp) {
+  utterance ("[g:FindDrink] give me something ")
+  plan (Y2BikEkpyszLrixJTczVgzALUlMyE/VcQGwGBRyybpl5KRAVjEDIAMVAEgA=)
+  last-modified (1565408708960)
+}
