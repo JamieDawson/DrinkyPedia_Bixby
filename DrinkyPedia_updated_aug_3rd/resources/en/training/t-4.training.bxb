@@ -1,3 +1,8 @@
+train (t-4s2p88cc5hjhe0mn7ntijsmus) {
+  utterance ("[g:findDrinkByName] tell me about the (zombie)[v:strDrink]")
+  plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1565396778633)
+}
 train (t-4zgfrpojoxtqzkizjlo5ru2aw) {
   utterance ("[g:FindDrink] What drinks can I make using an (apple)[v:strIngredient1]?")
   plan (Y2BmUCrISaxML8ovzUvRSynKzMuuLEhNyUyMd8usSE3RcwGJMKjhVeOWmZcCUaeNV11xSZFnXnoRUCQ1r8SQgYmBEYgZgCQjAwhA+QA=)
