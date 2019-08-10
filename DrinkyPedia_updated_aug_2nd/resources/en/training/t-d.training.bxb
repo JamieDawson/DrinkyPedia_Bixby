@@ -1,5 +1,0 @@
-train (t-d16i5zfpz84k43l74vh9hwszn) {
-  utterance ("[g:FindDrink] Give me drinks I can make with (whiskey)[v:strIngredient1]")
-  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
-  last-modified (1559610333918)
-}

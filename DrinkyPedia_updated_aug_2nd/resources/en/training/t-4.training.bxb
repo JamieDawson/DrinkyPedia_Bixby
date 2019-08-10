@@ -1,5 +1,0 @@
-train (t-4zgfrpojoxtqzkizjlo5ru2aw) {
-  utterance ("[g:FindDrink] What drinks can I make using an (apple)[v:strIngredient1]?")
-  plan (Y2BmUCrISaxML8ovzUvRSynKzMuuLEhNyUyMd8usSE3RcwGJMKjhVeOWmZcCUaeNV11xSZFnXnoRUCQ1r8SQgYmBEYgZgCQjAwhA+QA=)
-  last-modified (1563490807534)
-}

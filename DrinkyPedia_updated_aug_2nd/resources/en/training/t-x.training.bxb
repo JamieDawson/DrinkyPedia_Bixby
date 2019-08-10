@@ -1,5 +1,0 @@
-train (t-xlutpq4vvx0pgxqd0zyhpyw0p) {
-  utterance ("[g:FindDrink] Find me a recipe with (rum)[v:strIngredient1] and (orange juice)[v:strIngredient1].")
-  plan (Y2BlkEkpyszLrixITclM1IOwS1ITc/VcQEwGBRyybpl5KRAVqjhUFJcUeealFwGFU/NKDKmsjIWBkYGJgRlIM4BZTECSgYEHCBmAoowQGQA=)
-  last-modified (1559759960615)
-}

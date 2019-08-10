@@ -1,5 +1,0 @@
-train (t-ylv4haqknz1yb65aed4mfze3q) {
-  utterance ("[g:findDrinkByName] Explain to me what (old fashioned)[v:strDrink] is")
-  plan (Y2BmkEkpyszLrixITclM1IOwS1ITc/VcQEwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
-  last-modified (1559759591983)
-}

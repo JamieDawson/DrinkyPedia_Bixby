@@ -1,6 +1,0 @@
-name (strIngredient) {
-  description (__DESCRIPTION__)
-  features {
-    transient
-  }
-}
