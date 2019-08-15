@@ -1,5 +1,5 @@
 action (findSpecificDrinkInfo) {
-  type (Search)
+  type (Fetch)
   description (__DESCRIPTION__)
   collect {
     input (Drink) {
