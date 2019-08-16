@@ -1,5 +1,5 @@
 capsule {
-  id (drinkyteam.drinkypedia)
+  id (doge.drinkypedia)
   version (1.0.9)
   format (3)
   targets {
@@ -9,6 +9,7 @@ capsule {
     support-halt-effect-in-computed-inputs
      modern-prompt-rejection
     no-fallback-to-result-collections
+    allow-dialogs-on-detail-pages
   }
   store-sections {
     section (FoodAndDrink)

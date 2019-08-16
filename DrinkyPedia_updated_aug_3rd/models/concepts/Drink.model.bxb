@@ -208,4 +208,9 @@ structure (Drink) {
     type (dateModified)
     min (Optional) max (One)
   }
+  property (resolvedDrink) {
+    type (Drink)
+    min (Optional)
+    lazy-source (findSpecificDrinkInfo)
+  }
 }
