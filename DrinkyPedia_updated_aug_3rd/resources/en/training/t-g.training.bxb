@@ -3,3 +3,8 @@ train (t-g60f1gp5nkco4wrwzt5hna4mb) {
   plan (Y2BmkEkpyszLrixITclM1IOwS1ITc/VcQEwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
   last-modified (1559761452162)
 }
+train (t-gda17icqpmov6j6quokyw80pq) {
+  utterance ([g:FindDrink] give me a new drink to try)
+  plan (Y2BikEkpyszLrixJTczVgzALUlMyE/VcQGwGBRyybpl5KRAVjEDIAMVAEgA=)
+  last-modified (1566247184089)
+}
