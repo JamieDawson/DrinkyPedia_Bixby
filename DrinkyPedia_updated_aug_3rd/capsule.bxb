@@ -1,5 +1,5 @@
 capsule {
-  id (doge.drinkypedia)
+  id (playground.drinkypedia)
   version (1.0.9)
   format (3)
   targets {

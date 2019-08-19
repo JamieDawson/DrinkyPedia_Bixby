@@ -5,8 +5,8 @@ train (t-f20w97zij93qfl7r9n0gl2wyb) {
 }
 train (t-fexvb2albf889jxymn502zhct) {
   utterance ("[g:FindDrink] get me a (random)[v:strIngredient1]")
-  plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGBRyybpl5KRAVqjhUFJcUeealFwHZqXklhgxMDIxAzAAkGRlAAMoHAA==)
-  last-modified (1565407890888)
+  plan (Y2BmEEvJT0/VSynKzMuuLEhNyUzUcwGxGaQwxN0y81IgcvIYcsUlRZ556UVAdmpeiSEDEwMjEDMASUYGEIDyAQ==)
+  last-modified (1566246315501)
 }
 train (t-fqh5fhr2yoxrrhiy647xvnfc3) {
   utterance ("[g:FindDrink] Any drinks I can make using (tequila)[v:strIngredient1]")

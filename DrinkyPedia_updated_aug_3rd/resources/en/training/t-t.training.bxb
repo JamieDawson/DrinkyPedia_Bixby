@@ -8,3 +8,8 @@ train (t-t4qakmtd1ov26doiibva8pnlg) {
   plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
   last-modified (1559610032546)
 }
+train (t-tht87vjysgs6mg4wtbi1ih1gx) {
+  utterance ([g:FindDrink] I want something to drink)
+  plan (Y2BikCnISaxML8ovzUvRSynKzMuuLEhNyUzUcwGxGRRwyLpl5qVAVDACIQMUA0kA)
+  last-modified (1566246343235)
+}
