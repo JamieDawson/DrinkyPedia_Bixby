@@ -1,6 +1,0 @@
-dialog (Result) {
-  match: Drink (this){
-    from-output: findSpecificDrinkInfo
-  }
-  template("Here is the info about #{value(strDrink)}.")
-}

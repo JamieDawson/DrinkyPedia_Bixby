@@ -1,3 +1,0 @@
-text (strDescription) {
-  description (__DESCRIPTION__)
-}
