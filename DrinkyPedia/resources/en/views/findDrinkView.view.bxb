@@ -1,0 +1,42 @@
+result-view  {
+  match: Drink  (this){
+    min (Required)
+    max (Many)
+    from-output: FindDrink
+  }
+  render  {
+    if (size(this) > 1){
+      list-of (this){
+        where-each (drink){
+          layout-macro (findDrinkLayout){
+            param (Drink){
+              expression (drink)
+            }
+          }
+        } 
+      }
+    } else-if (size(this) == 1) {
+      layout-macro (findSpecificDrinkInfoLayout){
+        param  (Drink){
+          expression (this.resolvedDrink)
+        }
+      }
+    }
+  }
+  // refresh {
+  //   if (size(this) == 1) {
+  //     spec {
+  //       delay-seconds (0.01)
+  //       with-request {
+  //         if (true) {
+  //           intent {goal: findSpecificDrinkInfo
+  //             value {
+  //               Drink$expr(this)
+  //             }
+  //           }
+  //         }
+  //       }
+  //     }
+  //   }
+  // }
+}

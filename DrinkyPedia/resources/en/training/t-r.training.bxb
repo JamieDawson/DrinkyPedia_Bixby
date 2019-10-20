@@ -1,0 +1,5 @@
+train (t-rsh35x2rxedv82hh19bn3b73j) {
+  utterance ([g:FindDrink] get me a drink)
+  plan (Y2BikCnISaxML8ovzUvRSynKzMuuLEhNyUzUcwGxGRRwyLpl5qVAVDACIQMUA0kA)
+  last-modified (1566246326871)
+}

@@ -1,0 +1,11 @@
+action (FindDrink) {
+  description (__DESCRIPTION__)
+  collect {
+    input (strIngredient1) {
+      type (strIngredient1)
+      min (Optional) max (Many)
+    }
+  }
+  type (Search)
+  output (Drink)
+}

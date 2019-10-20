@@ -1,0 +1,11 @@
+action (findSpecificDrinkInfo) {
+  type (Fetch)
+  description (__DESCRIPTION__)
+  collect {
+    input (Drink) {
+      type (Drink)
+      min (Optional) max (One)
+    }
+  }
+  output (Drink)
+}

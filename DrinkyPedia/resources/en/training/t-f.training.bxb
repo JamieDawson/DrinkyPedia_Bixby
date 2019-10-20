@@ -1,0 +1,20 @@
+train (t-f20w97zij93qfl7r9n0gl2wyb) {
+  utterance ("[g:IngredientsAction] Tell me about the ingredient (lemon)[v:strIngredient1]")
+  plan (Y2BmkMzNrMgsqdQDUiWpibl6nnnpRakpmal5JQwKOKWKHZNLMvPzGGTRVBSXFCEUGTIwMTACMQOQZGQAASgfAA==)
+  last-modified (1559610763925)
+}
+train (t-fexvb2albf889jxymn502zhct) {
+  utterance ("[g:FindDrink] get me a (random)[v:strIngredient1]")
+  plan (Y2BmEEvJT0/VSynKzMuuLEhNyUzUcwGxGaQwxN0y81IgcvIYcsUlRZ556UVAdmpeiSEDEwMjEDMASUYGEIDyAQ==)
+  last-modified (1566246315501)
+}
+train (t-fqh5fhr2yoxrrhiy647xvnfc3) {
+  utterance ("[g:FindDrink] Any drinks I can make using (tequila)[v:strIngredient1]")
+  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
+  last-modified (1559609808139)
+}
+train (t-fxsj41uqk764oyf3pdv8efdg2) {
+  utterance ("[g:FindDrink] What drinks have a (lime)[v:strIngredient1] in them?")
+  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
+  last-modified (1559572423134)
+}

@@ -1,0 +1,25 @@
+train (t-wp37vn80eylab94hblzfw1tin) {
+  utterance ("[g:IngredientsAction] I wanna know stuff about (lemon)[v:strIngredient1]")
+  plan (Y2BmUC/ISaxML8ovzUvRSynKzMuuLEhNyUyMd8usSE3R88xLLwJyU/NKGPSIVFjsmFySmZ/HoI1XfXFJEUKLIQMTAyMQMwBJRgYQgPIB)
+  last-modified (1563829302678)
+}
+train (t-wtpy1f36x14bjte9gun03rfql) {
+  utterance ("[g:FindDrink] what is a (random)[v:strIngredient1] drink")
+  plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGBRyybpl5KRAVqjhUFJcUeealFwHZqXklhgxMDIxAzAAkGRlAAMoHAA==)
+  last-modified (1565407944423)
+}
+train (t-wtyanwgo3lkxdtn5c8aw7bmz2) {
+  utterance ("[g:findDrinkByName] show me the (zombie)[v:strDrink]")
+  plan (Y2BmkEkpyszLrixJTczVgzALUlMyE/VcQGwGNRyyaZl5KWAVTpV+ibmpDPI41BWXFEEMYmJgBGIGIMnIAAJQPgA=)
+  last-modified (1565397243400)
+}
+train (t-ww450oaut1vrd3esii8qapoee) {
+  utterance ("[g:FindDrink] Any drinks I can make using (apple)[v:strIngredient1]")
+  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
+  last-modified (1559609871627)
+}
+train (t-wwmw33ja5n7k4qrlt0zfajfsg) {
+  utterance ("[g:FindDrink] What drinks can I make with (lime)[v:strIngredient1]?")
+  plan (Y2BmEMnNrMgsqdQDUiWpibl6LkWZedkMEmiibpl5KRAZWTSZ4pIiz7z0otSUzNS8EkMGJgZGIGYAkowMIADlAwA=)
+  last-modified (1559593660038)
+}
