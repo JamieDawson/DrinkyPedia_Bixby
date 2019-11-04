@@ -1,34 +1,38 @@
 layout-macro-def(findDrinkLayout) {
-  params {
-    param (Drink) {
-      type (Drink)
-      min (Required)
-      max (One)
-    }
-  }
-  content {
-    compound-card {
-      content {
-        image-card {
-          aspect-ratio(3:4)
-          image-object-fit (Cover) //use to be Conatain. Changed to Cover.
-          image-url ("#{value(Drink.strDrinkThumb)}")
-          title-area { 
-            slot1 { 
-              text {  value ("")} 
-            }
-          }
-        }
-        title-area {
-          halign (Start)
-          slot1 {
-            text {
-            value ("#{value(Drink.strDrink)}")
-              style (Title_XS)
-            }
-          }
-        }
-      }
-    }
-  }
+	params {
+		param (Drink) {
+			type (Drink)
+			min (Required)
+			max (One)
+		}
+	}
+	content {
+		compound-card {
+			content {
+				if (exists(Drink.strDrinkThumb)){
+					image-card {
+						aspect-ratio(3:4)
+						image-object-fit (Cover) //use to be Conatain. Changed to Cover.
+						image-url ("#{value(Drink.strDrinkThumb)}")
+						title-area {
+							slot1 {
+								text {  value ("")}
+							}
+						}
+					}
+				}
+				if (exists(Drink.strDrink)) {
+					title-area {
+						halign (Start)
+						slot1 {
+							text {
+								value ("#{value(Drink.strDrink)}")
+								style (Title_XS)
+							}
+						}
+					}
+				}
+			}
+		}
+	}
 }

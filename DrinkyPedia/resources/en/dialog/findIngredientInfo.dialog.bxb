@@ -1,6 +1,8 @@
 dialog (Result) {
   match: Ingredient (this)
+  if (exists(this.strIngredient) && exists(this.speech)){
   template("Info I found on #{value(this.strIngredient)}.") {
     speech ("#{value(this.speech)}")
+  }
   }
 }

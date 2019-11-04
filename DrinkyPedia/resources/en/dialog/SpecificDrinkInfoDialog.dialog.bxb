@@ -2,5 +2,7 @@ dialog (Result) {
   match: Drink (this){
     from-output: findSpecificDrinkInfo
   }
+  if (exists(strDrink)){
   template("Here is the info about #{value(strDrink)}.")
+  }
 }

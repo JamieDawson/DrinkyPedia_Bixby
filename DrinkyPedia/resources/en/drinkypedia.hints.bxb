@@ -1,8 +1,8 @@
 hints {
   uncategorized {
-    utterance (What drinks can I make with vodka?)
-    utterance (What is a zombie?)
-    utterance (Tell me about lemon.)
-    utterance (Give me some random drinks.)
+    hint (In Drinky Pedia, what drinks can I make with vodka?)
+    hint (In Drinky Pedia, Wwhat is a zombie?)
+    hint (With Drinky Pedia, tell me about lemon.)
+    hint (Ask Drinky Pedia to Give me some random drinks.)
   }
 }
