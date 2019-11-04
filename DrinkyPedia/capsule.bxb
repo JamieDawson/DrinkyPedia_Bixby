@@ -6,6 +6,10 @@ capsule {
     target (bixby-mobile-en-US)
   }
   runtime-flags {
+    use-input-views-for-selection-list-detail
+    modern-default-view-behavior
+    no-filtering-with-validation
+    concepts-inherit-super-type-features
     support-halt-effect-in-computed-inputs
      modern-prompt-rejection
     no-fallback-to-result-collections

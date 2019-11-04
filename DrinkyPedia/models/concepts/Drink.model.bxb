@@ -24,14 +24,14 @@ structure (Drink) {
     type (strDrinkFR)
     min (Optional) max (One)
   }
-  property (strDrinkZH-HANS) {
-    type (strDrinkZH-HANS)
-    min (Optional) max (One)
-  }
-  property (strDrinkZH-HANT) {
-    type (strDrinkZH-HANT)
-    min (Optional) max (One)
-  }
+  // property (strDrinkZH-HANS) {
+  //   type (strDrinkZH-HANS)
+  //   min (Optional) max (One)
+  // }
+  // property (strDrinkZH-HANT) {
+  //   type (strDrinkZH-HANT)
+  //   min (Optional) max (One)
+  // }
   property (strTags) {
     type (strTags)
     min (Optional) max (Many)
@@ -72,14 +72,14 @@ structure (Drink) {
     type (strInstructionsFR)
     min (Optional) max (One)
   }
-  property (strInstructionsZH-HANS) {
-    type (strInstructionsZH-HANS)
-    min (Optional) max (One)
-  }
-  property (strInstructionsZH-HANT) {
-    type (strInstructionsZH-HANT)
-    min (Optional) max (One)
-  }
+  // property (strInstructionsZH-HANS) {
+  //   type (strInstructionsZH-HANS)
+  //   min (Optional) max (One)
+  // }
+  // property (strInstructionsZH-HANT) {
+  //   type (strInstructionsZH-HANT)
+  //   min (Optional) max (One)
+  // }
   property (strDrinkThumb) {
     type (strDrinkThumb)
     min (Optional) max (One)
