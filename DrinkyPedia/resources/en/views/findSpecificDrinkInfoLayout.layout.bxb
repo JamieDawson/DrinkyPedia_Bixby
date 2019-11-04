@@ -38,6 +38,7 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
             style(Detail_L_Soft)
           }
           //Ingredient1
+          if (exists(Drink.strMeasure1) && exists(Drink.strIngredient1) ) {
           hbox {
             content {
               vbox {
@@ -54,7 +55,10 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          }
+          }
+
         //Ingredient2
+        if (exists(Drink.strMeasure2) && exists(Drink.strIngredient2) ) {
           hbox {
             content {
               vbox {
@@ -70,8 +74,10 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
                }
              }
            }
-         }          
+         } 
+        }         
           //Ingredient3
+          if (exists(Drink.strMeasure3) && exists(Drink.strIngredient3) ) {
           hbox {
             content {
               vbox {
@@ -88,7 +94,9 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          }          
+          }
         //Ingredient4
+        if (exists(Drink.strMeasure4) && exists(Drink.strIngredient4) ) {
           hbox {
             content {
               vbox {
@@ -105,7 +113,9 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          }         
+        }
          //Ingredient5
+         if (exists(Drink.strMeasure5) && exists(Drink.strIngredient5) ) {
           hbox {
             content {
               vbox {
@@ -122,7 +132,9 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          }          
+         }
          //Ingredient6
+         if (exists(Drink.strMeasure6) && exists(Drink.strIngredient6) ) {
           hbox {
             content {
               vbox {
@@ -139,7 +151,9 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          }      
+         }
           //Ingredient7
+          if (exists(Drink.strMeasure7) && exists(Drink.strIngredient7) ) {
           hbox {
             content {
               vbox {
@@ -156,7 +170,9 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          }          
+          }
         //Ingredient8
+        if (exists(Drink.strMeasure8) && exists(Drink.strIngredient8) ) {
           hbox {
             content {
               vbox {
@@ -172,8 +188,10 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
                }
              }
            }
-         }          
+         }      
+        }    
          //Ingredient9
+         if (exists(Drink.strMeasure9) && exists(Drink.strIngredient9) ) {
           hbox {
             content {
               vbox {
@@ -190,7 +208,9 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          }           
+         }
          //Ingredient10
+         if (exists(Drink.strMeasure10) && exists(Drink.strIngredient10) ) {
           hbox {
             content {
               vbox {
@@ -207,7 +227,9 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          }  
+         }
          //Ingredient 11
+         if (exists(Drink.strMeasure11) && exists(Drink.strIngredient11) ) {
           hbox {
             content {
               vbox {
@@ -224,7 +246,9 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          }    
-         //Ingredient 12          
+         }
+         //Ingredient 12     
+         if (exists(Drink.strMeasure12) && exists(Drink.strIngredient12) ) {    
           hbox {
             content {
               vbox {
@@ -241,7 +265,9 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          }   
-         //Ingredient 13          
+         }
+         //Ingredient 13      
+         if (exists(Drink.strMeasure13) && exists(Drink.strIngredient13) ) {    
            hbox {
             content {
               vbox {
@@ -258,7 +284,9 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          }         
-         //Ingredient 14         
+         }
+         //Ingredient 14   
+         if (exists(Drink.strMeasure14) && exists(Drink.strIngredient14) ) {      
            hbox {
             content {
               vbox {
@@ -275,7 +303,9 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          } 
-         //Ingredient 15       
+         }
+         //Ingredient 15   
+         if (exists(Drink.strMeasure15) && exists(Drink.strIngredient15) ) {    
            hbox {
             content {
               vbox {
@@ -292,6 +322,7 @@ layout-macro-def(findSpecificDrinkInfoLayout) {
              }
            }
          }           
+         }
 //        compound-card {
 //          content {
  //           paragraph {
