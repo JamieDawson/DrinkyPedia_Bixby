@@ -27,7 +27,7 @@ result-view  {
     }
     layout-macro (findDrinkLayout){
       param (Drink){
-        expression (this)
+        expression (this[0]) //use to be (this). got rid of yellow
       }
     }
   }
