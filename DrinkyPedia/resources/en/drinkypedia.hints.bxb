@@ -1,8 +1,8 @@
 hints {
   uncategorized {
-    hint (In Drinky Pedia, what drinks can I make with vodka?)
-    hint (In Drinky Pedia, Wwhat is a zombie?)
-    hint (With Drinky Pedia, tell me about lemon.)
-    hint (Ask Drinky Pedia to Give me some random drinks.)
+    hint (In Drinkypedia, what drinks can I make with vodka?)
+    hint (In Drinkypedia, what is a zombie?)
+    hint (Ask Drinkypedia, tell me about lemon.)
+    hint (Ask Drinkypedia to give me some random drinks.)
   }
 }

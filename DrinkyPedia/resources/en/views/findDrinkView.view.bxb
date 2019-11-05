@@ -18,7 +18,7 @@ result-view  {
     } else-if (size(this) == 1) {
       layout-macro (findSpecificDrinkInfoLayout){
         param  (Drink){
-          expression (this.resolvedDrink)
+          expression (this.resolvedDrink[0])
         }
       }
     }

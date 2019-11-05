@@ -11,7 +11,7 @@ capsule-info {
     keyword (cocktail)
     keyword (mixer)
   }
-  dispatch-name (Drinky Pedia) 
+  dispatch-name (Drinkypedia) 
   dispatch-aliases {
     alias (DrinkyPedia)
   }

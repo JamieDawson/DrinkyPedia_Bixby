@@ -7,8 +7,9 @@ dialog (Result) {
    // template("#{value(this.strDrink)}")
   } else-if (exists(strDrink) && size(this) == 1) {
     template("Here is the info about #{value(strDrink)}.")
-  } else
+  } else{
    template("")
+  }
   
 }
 
