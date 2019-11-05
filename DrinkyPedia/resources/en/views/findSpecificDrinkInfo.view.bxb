@@ -6,8 +6,9 @@ result-view  {
     
     layout-macro (findSpecificDrinkInfoLayout){
       param  (Drink){
-        
-        expression (this)
+        if (exists(this)){
+        expression (this[0])
+        }
       }
     }
   }

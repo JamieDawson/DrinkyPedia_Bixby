@@ -1,5 +1,5 @@
 capsule {
-  id (drinkyteam.drinkypedia)
+  id (drinkyteam.drinkypedia_my)
   version (2.0.2)
   format (3)
   targets {
