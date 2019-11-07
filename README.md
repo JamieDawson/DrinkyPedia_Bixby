@@ -3,6 +3,6 @@ Drinkypedia is a Bixby Capsule designed to help teach you how to make drinks. Yo
 Examples of what you can say:
 1) "With Drinkypedia, what can I make with Vodka"
 2) "In Drinkypedia, what is a Zombie"
-3) Ask Drinkypedia what is a lemon"
+3) "Ask Drinkypedia what is a lemon"
 
 To try this Capsule, go to the Bixby Marketplace and search "Drinkypedia".
