@@ -1,5 +1,7 @@
 Drinkypedia is a Bixby Capsule designed to help teach you how to make drinks. You can request drinks by name, ask for all drinks by an ingredient, or ask about information on an ingredient. 
 
+To use the deployed app that's live in the Bixby Marketplace, click the Bixby button on your Samsung phone and search "Drinkypedia".
+
 Examples of what you can say:
 
 1) "Ask Drinkypedia to give me some random drinks."
@@ -9,5 +11,4 @@ Examples of what you can say:
 3) "In Drinkypedia, what drinks can I make with vodka?"
 ![DRINKS 3](https://github.com/JamieDawson/DrinkyPedia_Bixby/assets/16840579/66450959-0527-4b32-9bac-48e34b3c76aa)
 
-To try this Capsule, go to the Bixby Marketplace and search "Drinkypedia".
 
